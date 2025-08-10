@@ -1,0 +1,13 @@
+{
+  "id": "pf2e-counteract-helper",
+  "title": "PF2e Counteract Helper",
+  "description": "Rolls and explains PF2e counteract checks with a clear chat summary.",
+  "version": "0.1.0",
+  "authors": [{ "name": "Home Brew Crew + ChatGPT" }],
+  "compatibility": { "minimum": "12", "verified": "13" },
+  "systems": [{ "id": "pf2e", "type": "system", "compatibility": { "minimum": "5.0.0" } }],
+  "esmodules": ["scripts/main.js"],
+  "url": "https://example.com",
+  "manifest": "https://example.com/module.json",
+  "download": "https://example.com/pf2e-counteract-helper.zip"
+}
