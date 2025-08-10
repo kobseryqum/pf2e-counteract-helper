@@ -20,7 +20,7 @@
   "readme": "README.md",
   "bugs": "",
   "url": "https://github.com/kobseryqum/pf2e-counteract-helper",
-  "manifest": "https://raw.githubusercontent.com/kobseryqum/pf2e-counteract-helper/master/module.json",
+  "manifest": "https://github.com/kobseryqum/pf2e-counteract-helper/releases/download/latest/module.json",
   "download": "https://github.com/kobseryqum/pf2e-counteract-helper/",
   
 }
