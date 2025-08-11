@@ -17,7 +17,6 @@
   "esmodules": [
     "scripts/main.js"
   ],
-  "readme": "README.md",
   "bugs": "https://github.com/kobseryqum/pf2e-counteract-helper/issues",
   "url": "https://github.com/kobseryqum/pf2e-counteract-helper",
   "manifest": "https://github.com/kobseryqum/pf2e-counteract-helper/releases/download/latest/module.json",
